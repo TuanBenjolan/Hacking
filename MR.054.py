@@ -1,2 +1,2 @@
 #figlet
-figlet MR. 054
+figlet MR.054
